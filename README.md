@@ -1,5 +1,7 @@
 # RecyclerViewRequestLayoutBug
 
+https://issuetracker.google.com/issues/158124538
+
 Bug in `constraintlayout:2.0.0-beta6`.
 
 To reproduce, create a RecyclerView:
